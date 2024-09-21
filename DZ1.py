@@ -1,0 +1,6 @@
+NUM1 = str(input ("Напиши любой символ: "))
+print (NUM1)
+print (NUM1,NUM1)
+print (NUM1,NUM1,NUM1)
+print (NUM1,NUM1,NUM1,NUM1)
+print (NUM1,NUM1,NUM1,NUM1,NUM1)
